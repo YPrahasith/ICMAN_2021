@@ -1,5 +1,5 @@
 # ICMAN 2021 Website
-
+A website created for EC Conference December 2021
 ## Current requirements
 ### Contents:
 - Brief description
@@ -13,16 +13,3 @@
   - Important dates
 
 Just template for now
-
-### todo (plz add on to this list)
-- [ ] Base template
-  - [ ] Header
-  - [ ] Nav-bar
-  - [ ] Footer
-- [ ] Home page
-- [ ] Organizing committees page
-- [ ] Advisory committee page
-- [ ] Topics/Area to be covered page
-- [ ] Important dates page
-
-PS. feel free to modify this list, we can cross of things from here as we go on :')
